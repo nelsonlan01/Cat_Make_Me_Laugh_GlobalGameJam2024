@@ -58,6 +58,10 @@ Technology Notes
 - Swapped discipline of "develop" this game, "Researcher" this time, as designer posed a minor duty.
 - Educational-based AI and game design/programming technique
 
+----------
+【Screenshots】
+![GGJ2024_1](https://github.com/nelsonlan01/Cat_Make_Me_Laugh_GlobalGameJam2024/assets/24426550/a53d4185-523c-4fad-8624-e91aeca13252)
+![GGJ2024_2](https://github.com/nelsonlan01/Cat_Make_Me_Laugh_GlobalGameJam2024/assets/24426550/e1769b21-930d-4444-b91c-7491d2745dbd)
 
 ----------
 
